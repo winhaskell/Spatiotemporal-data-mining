@@ -1,0 +1,20 @@
+Spatiotemporal Data Mining: A Survey
+
+[Submitted on 26 Jun 2022]
+Spatiotemporal Data Mining: A Survey
+Arun Sharma, Zhe Jiang, Shashi Shekhar
+Spatiotemporal data mining aims to discover interesting, useful but non-trivial patterns in big spatial and spatiotemporal data. 
+
+They are used in various application domains such as public safety, ecology, epidemiology, earth science, etc. 
+This problem is challenging because of the high societal cost of spurious patterns and exorbitant computational cost. 
+Recent surveys of spatiotemporal data mining need update due to rapid growth. In addition, they did not adequately
+survey parallel techniques for spatiotemporal data mining. This paper provides a more up-to-date survey of 
+spatiotemporal data mining methods. Furthermore, it has a detailed survey of parallel formulations of spatiotemporal data mining.
+ 
+https://doi.org/10.48550/arXiv.2206.12753
+Focus to learn more
+Submission history
+From: Arun Sharma [view email]
+[v1] Sun, 26 Jun 2022 00:08:06 UTC (2,301 KB)
+
+https://arxiv.org/abs/2206.12753
